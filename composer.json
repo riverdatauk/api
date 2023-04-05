@@ -1,0 +1,11 @@
+{
+    "name": "riverdata/api",
+    "autoload": {
+        "psr-4": {
+            "RiverDataApi\\": "src/RiverDataApi"
+        }
+    },
+    "require": {
+        "symfony/http-foundation": "^6.2"
+    }
+}
